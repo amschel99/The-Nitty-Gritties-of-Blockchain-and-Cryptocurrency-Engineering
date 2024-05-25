@@ -1,0 +1,6 @@
+[book]
+authors = ["Amschel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Nitty Gritties of Blockchain and Cryptocurrency Engineering"
