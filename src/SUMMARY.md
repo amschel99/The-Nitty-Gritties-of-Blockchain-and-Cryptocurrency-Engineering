@@ -2,4 +2,10 @@
 
 [Introduction](./introduction.md)
 
-- [Chapter 1](./chapter_1.md)
+- [Money](money/money.md)
+
+  - [How payments work](money/payments.md)
+  - [Ecash](money/ecash.md)
+
+- [Hash functions and signatures](signatures/signatures.md)
+- [Distributed consensus](consensus/consensus.md)
