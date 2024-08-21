@@ -9,3 +9,4 @@
 
 - [Hash functions and signatures](signatures/signatures.md)
 - [Distributed consensus](consensus/consensus.md)
+- [Signatures indepth](signatures/signatures-indepth.md)
