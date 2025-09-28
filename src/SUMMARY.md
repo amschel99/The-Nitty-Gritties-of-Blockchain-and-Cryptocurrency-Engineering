@@ -1,4 +1,4 @@
-# Summary
+# Crypto currency engineerig notes by Amschel Kariuki.
 
 [Introduction](./introduction.md)
 
